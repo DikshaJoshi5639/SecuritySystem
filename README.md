@@ -28,7 +28,7 @@ Getting Started
 
 ## Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/cpp-password-manager.git
+git clone (https://github.com/DikshaJoshi5639/SecuritySystem.git)
 
 Open the project folder in Visual Studio Code.
 
